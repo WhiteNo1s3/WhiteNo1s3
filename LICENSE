@@ -1,0 +1,119 @@
+SHALTIEL INDUSTRIES PROPRIETARY LICENSE
+WhiteNo1s3
+Version 2.0 — general form, 22 November 2026
+
+Copyright (c) 2026 Shaltiel Industries. All rights reserved.
+
+Shaltiel Industries (the "Company") is the entity earlier styled as
+"whiteno1se enterprise (SHALTIEL)"; the two styles name one and the same
+owner, and every earlier notice under the old style is a notice in favor
+of the Company. Technical identifiers minted under the earlier style,
+including the repository handle WhiteNo1s3, remain valid and unchanged.
+
+1. DEFINITIONS
+
+  "Software"       WhiteNo1s3 and everything in this repository: source
+                   code, scripts, tests, assets, designs, copy, and the
+                   Documentation.
+  "Documentation"  The written works of this repository, including any
+                   README, specification, and guides.
+  "Marks"          The names and marks "WhiteNo1s3", "Shaltiel Industries",
+                   and the program's icon and product identity.
+  "Credit Line"    The exact attribution text:
+
+                   "WhiteNo1s3 is the work of Ben Shaltiel and the
+                   property of Shaltiel Industries. Used with permission."
+
+2. OWNERSHIP
+
+The Software and the Marks are, and remain, the exclusive property of
+Ben Shaltiel and the Company. No title passes under this license. The
+open technologies the Software stands on, and any third-party packages
+it embeds, belong to their own authors under their own licenses, are
+credited in the NOTICE file where one is present, and are not claimed.
+
+3. GRANTS
+
+Subject to the Conditions of section 4, the Company grants:
+
+  (a) Internal use. Authorized personnel and agents of the Company may
+      use, build, test and modify the Software within the Company's own
+      work on it.
+
+  (b) Personal use of shipped builds. A person who lawfully obtains a
+      release build of WhiteNo1s3 may install and use it on their own
+      devices for personal, non-commercial purposes.
+
+  (c) Citation. The Documentation may be quoted in reasonable excerpt —
+      reviews, research, teaching — with the Credit Line.
+
+Any other use — including copying, modification, distribution,
+publication, training a model on the Software, or building a product or
+service from it — requires prior written permission from the Company.
+
+4. CONDITIONS
+
+Every grant in section 3 is conditioned on all of the following:
+
+  (a) Credit. The Credit Line, exactly as written, appears wherever the
+      work using the grant credits its sources and a user can find it
+      (about box, credits screen, README, acknowledgments). Works that
+      carry a NOTICE-style file reproduce the Company's NOTICE within
+      it. The credit names the origin; it does not lend the name — no
+      use may state or imply the Company's sponsorship, certification
+      or approval.
+
+  (b) No competing use. No grant extends to building, training, or
+      shipping a product or service that substitutes for WhiteNo1s3,
+      nor to incorporating the Software or its distinctive design into
+      such a product, unless the Company has given prior written
+      permission for that use.
+
+  (c) No relicensing. Grants are personal to the grantee and may not be
+      sublicensed, assigned or offered under different terms.
+
+5. PROHIBITIONS
+
+Except as expressly granted in section 3 or in a separate written
+permission from the Company, the following are prohibited: copying,
+reproduction, publication or distribution of the Software or
+Documentation, in whole or substantial part; modification or creation of
+derivative works; reverse engineering of shipped builds except where a
+law forbids that restriction; use of the Marks; and removal or obscuring
+of any copyright notice, Credit Line, or NOTICE file.
+
+6. TERMINATION
+
+A grant terminates automatically upon breach of its Conditions. A
+terminated grantee must cease the granted use. The Company may restore
+a grant in writing.
+
+7. REMEDIES
+
+Unauthorized use of the Software or the Marks will be met with every
+remedy available at law or in equity, including injunctive relief,
+takedown of infringing copies, and recovery of damages and costs.
+
+8. NO WARRANTY; LIMITATION
+
+THE SOFTWARE AND DOCUMENTATION ARE PROVIDED "AS IS", WITHOUT WARRANTY
+OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING MERCHANTABILITY, FITNESS FOR
+A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. TO THE MAXIMUM EXTENT
+PERMITTED BY LAW, THE COMPANY IS NOT LIABLE FOR ANY CLAIM OR DAMAGES
+ARISING FROM THE SOFTWARE OR ITS USE.
+
+9. GOVERNING LAW
+
+This license is governed by the laws of the State of Israel, without
+regard to conflict-of-law rules, and disputes belong to the competent
+courts of that state.
+
+10. INQUIRIES
+
+The Company reads in good faith requests to use, build on, or
+collaborate around the Software. Ask before you build:
+WhiteNo1s3@proton.me. Written permission comes first. The demand of
+credit stands in every case.
+
+                                            SHALTIEL INDUSTRIES
+                                            22 November 2026
